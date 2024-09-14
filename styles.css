@@ -1,1 +1,33 @@
+body {
+    max-width: 900px;
+    margin: auto;
+}
 
+Header,h2{
+    color: rgb(197, 57, 127);
+    text-align: center;
+    font-size: 20px;
+}
+
+section.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  ul > li {
+    color: blueviolet;
+}
+
+section.jumbotron{
+    background-color: honeydew;
+}
+a{
+    color: deeppink;
+}
+
+footer{
+    margin: 40px 0;
+    text-align: center;
+}
